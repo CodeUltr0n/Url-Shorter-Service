@@ -1,0 +1,83 @@
+/* Reset basic styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f6f8;
+  color: #333;
+}
+
+/* Container */
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+}
+
+/* Heading */
+h1 {
+  color: #1a73e8;
+  margin-bottom: 20px;
+}
+
+/* Input fields */
+input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  width: 60%;
+  transition: border-color 0.2s;
+}
+
+input:focus {
+  border-color: #1a73e8;
+}
+
+/* Buttons */
+button {
+  padding: 10px 15px;
+  background-color: #1a73e8;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin-left: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #155ab6;
+}
+
+/* Short URL display */
+.short-url {
+  margin-top: 15px;
+  font-size: 1.1rem;
+}
+
+.short-url a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+.short-url a:hover {
+  text-decoration: underline;
+}
+
+/* Analytics section */
+.analytics {
+  margin-top: 40px;
+  text-align: left;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05);
+}
+
+.analytics pre {
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-radius: 6px;
+  overflow-x: auto;
+}

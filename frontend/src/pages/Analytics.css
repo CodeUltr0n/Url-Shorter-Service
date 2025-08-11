@@ -1,0 +1,59 @@
+.analytics-container {
+  margin-top: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.analytics-container h2 {
+  color: #1a73e8;
+  margin-bottom: 10px;
+}
+
+.analytics-input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.analytics-input:focus {
+  border-color: #1a73e8;
+}
+
+.analytics-button {
+  margin-left: 10px;
+  padding: 8px 14px;
+  background-color: #1a73e8;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.analytics-button:hover {
+  background-color: #155ab6;
+}
+
+.analytics-table {
+  margin-top: 15px;
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.analytics-table th {
+  background-color: #f4f6f8;
+  padding: 10px;
+  border-bottom: 2px solid #ddd;
+  text-align: left;
+}
+
+.analytics-table td {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.analytics-table tr:hover {
+  background-color: #f9f9f9;
+}
