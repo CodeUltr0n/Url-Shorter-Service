@@ -20,8 +20,7 @@ A simple URL shortener service built with the MERN stack (MongoDB, Express.js, R
 
 ![Analytics](https://github.com/user-attachments/assets/fd6ac38b-3167-456a-8b85-7019faa75b65)
 
-![Mongodb(DataBase)](https://github.com/user-attachments/assets/9e8a6f55-e7d1-45e1-9677-cd81174d15f3)
-)
+![Mongodb(DataBase)](https://github.com/user-attachments/assets/be400639-e26c-44ec-b13f-79c1398c1036)
 
 🎥 [Watch Demo Video](https://drive.google.com/file/d/1FMcABS_asKqMoSGKizecs2IAY4vY1w-1/view?usp=drive_link)
 
