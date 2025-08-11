@@ -16,11 +16,11 @@ A simple URL shortener service built with the MERN stack (MongoDB, Express.js, R
 
 ## 📸 Snapshots
 
-![Homepage](<img width="1320" height="760" alt="Screenshot 2025-08-11 at 6 56 45 PM" src="https://github.com/user-attachments/assets/f3538df4-6b4e-4728-8807-064d1fc1050e" />
-)
-![Analytics](<img width="1320" height="760" alt="Screenshot 2025-08-11 at 6 57 04 PM" src="https://github.com/user-attachments/assets/fd6ac38b-3167-456a-8b85-7019faa75b65" />
-)
-![Result](<img width="917" height="655" alt="Screenshot 2025-08-11 at 2 48 54 PM" src="https://github.com/user-attachments/assets/9e8a6f55-e7d1-45e1-9677-cd81174d15f3" />
+![Homepage](https://github.com/user-attachments/assets/f3538df4-6b4e-4728-8807-064d1fc1050e)
+
+![Analytics](https://github.com/user-attachments/assets/fd6ac38b-3167-456a-8b85-7019faa75b65)
+
+![Mongodb(DataBase)](https://github.com/user-attachments/assets/9e8a6f55-e7d1-45e1-9677-cd81174d15f3)
 )
 
 🎥 [Watch Demo Video](https://drive.google.com/file/d/1FMcABS_asKqMoSGKizecs2IAY4vY1w-1/view?usp=drive_link)
