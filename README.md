@@ -1,4 +1,4 @@
- URL Shortener Service
+# URL Shortener Service
 
 A simple URL shortener service built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
