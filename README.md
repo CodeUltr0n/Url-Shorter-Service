@@ -1,10 +1,10 @@
-# URL Shortener Service
+ URL Shortener Service
 
 A simple URL shortener service built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 ---
 
-## Features
+# Features
 
 - Shorten long URLs to short, shareable links.
 - Redirect short URLs to the original URL.
@@ -50,11 +50,11 @@ ATLASDB_URL=your_mongodb_connection_string
 ```bash
 npm start
 ```
-### The backend server will run on http://localhost:8001.
+The backend server will run on http://localhost:8001.
 
 ----
 
-### Frontend Setup
+ Frontend Setup
 
 ### 1. Navigate to the frontend folder:
    ```bash
@@ -70,7 +70,7 @@ yarn install
 ```bash
 npm start
 ```
-### The frontend app will run on http://localhost:3000.
+The frontend app will run on http://localhost:3000.
 
 ---
 
@@ -80,7 +80,7 @@ npm run build
 ```
 --- 
 
-## 🛠️ Getting Started
+🛠️ Getting Started
 
 ### 1. Clone the Repository
 ```bash
